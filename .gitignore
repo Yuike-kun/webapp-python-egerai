@@ -1,4 +1,5 @@
 # Jangan pernah commit file ini ke GitHub -- berisi API key rahasia
+.venv
 .env
 
 # Folder sementara aplikasi (otomatis terisi & dibersihkan saat runtime)
